@@ -7,3 +7,5 @@ eleventyNavigation:
 # About Me
 
 I am a person that writes stuff.
+
+and also im the person who does the testing of stuffd 
